@@ -1,0 +1,5 @@
+id, nome,idade, alunos
+1, Romes, 16, 4 (Chave estrangeira) 
+
+
+alunos.nome[3]
